@@ -16,13 +16,13 @@ Welcome to my GitHub profile! I'm a passionate [Your Profession/Field] with a lo
 
 - 👯 I’m looking to collaborate on 
 
-- 🤔 I’m looking for help with [Specific Topic or Technology]
+- 🤔 I’m looking for help with 
 
-- 💬 Ask me about [Your Expertise or Interests]
+- 💬 Ask me about 
 
-- 📫 How to reach me: [Your Email or Contact Info]
+- 📫 How to reach me: 
 
-- ⚡ Fun fact: [A fun fact about yourself]
+- ⚡ Fun fact: 
 
 
 ## 🛠️ Technologies & Tools
