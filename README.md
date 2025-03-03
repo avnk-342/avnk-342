@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue) ![GitHub Followers](https://img.shields.io/github/followers/yourusername?style=social)
 
 
-Welcome to my GitHub profile! I'm a passionate [Your Profession/Field] with a love for [Your Interests/Technologies]. Here, you'll find a collection of my projects, contributions, and ideas.
+Welcome to my GitHub profile! I'm a passionate  with a love for . Here, you'll find a collection of my projects, contributions, and ideas.
 
 
 ## 🚀 About Me
@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm a passionate [Your Profession/Field] with a lo
 ## 📈 GitHub Stats
 
 
-![Anmol](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+!(https://github-readme-stats.vercel.app/api?&show_icons=true&theme=radical)
 
 
 ## 🌟 Featured Projects
