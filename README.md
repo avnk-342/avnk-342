@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm a passionate [Your Profession/Field] with a lo
 ## 📈 GitHub Stats
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Anmol](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 
 ## 🌟 Featured Projects
