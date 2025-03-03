@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Anmol Koundal!
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue) ![GitHub Followers](https://img.shields.io/github/followers/yourusername?style=social)
@@ -10,11 +10,11 @@ Welcome to my GitHub profile! I'm a passionate [Your Profession/Field] with a lo
 ## 🚀 About Me
 
 
-- 🔭 I’m currently working on [Project Name or Description]
+- 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning [Technologies or Skills]
+- 🌱 I’m currently learning 
 
-- 👯 I’m looking to collaborate on [Type of Projects or Technologies]
+- 👯 I’m looking to collaborate on 
 
 - 🤔 I’m looking for help with [Specific Topic or Technology]
 
@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm a passionate [Your Profession/Field] with a lo
 ## 📈 GitHub Stats
 
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 
 ## 🌟 Featured Projects
