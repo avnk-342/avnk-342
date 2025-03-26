@@ -43,8 +43,15 @@ Welcome to my GitHub profile! I'm a passionate  with a love for . Here, you'll f
 
 ## 📈 GitHub Stats
 
+<div style="display: flex; justify-content: space-around;">
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=avnk-342&show_icons=true&theme=transparent) (https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    <img src="https://github-readme-stats.vercel.app/api?username=avnk-342&show_icons=true&theme=transparent" alt="Your GitHub Stats" style="width: 45%;"/>
+
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avnk-342&layout=compact" alt="Most Used Languages" style="width: 45%;"/>
+
+</div>
+
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=avnk-342&show_icons=true&theme=transparent) (https://github-readme-stats.vercel.app/api/top-langs/?username=avnk-342&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
