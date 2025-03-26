@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Anmol Koundal!
 
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=avnk-342) ![GitHub Followers](https://img.shields.io/github/followers/yourusername?style=social)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=avnk-342) ![GitHub Followers](https://img.shields.io/github/followers/avnk-342?style=social)
 
 
 Welcome to my GitHub profile! I'm a passionate  with a love for . Here, you'll find a collection of my projects, contributions, and ideas.
