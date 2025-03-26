@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm a passionate  with a love for . Here, you'll f
 [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=avnk-342&show_icons=true&theme=transparent)]
 
 ## Most Used Languages
-[![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avnk-342&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avnk-342&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
