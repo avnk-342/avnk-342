@@ -44,7 +44,9 @@ Welcome to my GitHub profile! I'm a passionate  with a love for . Here, you'll f
 ## 📈 GitHub Stats
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=avnk-342&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=avnk-342)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 ## 🌟 Featured Projects
@@ -64,8 +66,6 @@ Here are some of my favorite projects:
 
 
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
-
-- [Twitter](https://twitter.com/yourprofile)
 
 - [Personal Website](https://yourwebsite.com)
 
