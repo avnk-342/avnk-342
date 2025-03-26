@@ -44,7 +44,8 @@ Welcome to my GitHub profile! I'm a passionate  with a love for . Here, you'll f
 ## 📈 GitHub Stats
 
 
-!(https://github-readme-stats.vercel.app/api?&show_icons=true&theme=radical)
+[!(https://github-readme-stats.vercel.app/api?&show_icons=true&theme=radical)](https://github-readme-streak-stats.herokuapp.com/?user=avnk-342
+)
 
 
 ## 🌟 Featured Projects
