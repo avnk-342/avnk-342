@@ -36,9 +36,7 @@ Welcome to my GitHub profile! I'm a passionate  with a love for . Here, you'll f
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 
 ## 📈 GitHub Stats
@@ -67,9 +65,9 @@ Here are some of my favorite projects:
 ## 📫 Connect with Me
 
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [LinkedIn](www.linkedin.com/in/anmol-koundal)
 
-- [Personal Website](https://yourwebsite.com)
+- [Personal Website](https://portfolio-c18g.vercel.app/)
 
 
 Thanks for stopping by! Feel free to explore my repositories and reach out if you have any questions or just want to chat! 😊
