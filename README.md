@@ -4,28 +4,35 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=avnk-342) ![GitHub Followers](https://img.shields.io/github/followers/avnk-342?style=social)
 
 
-Welcome to my GitHub profile! I'm a passionate  with a love for . Here, you'll find a collection of my projects, contributions, and ideas.
+I tell computers what to do, and sometimes they even listen. This is where I document my side of the conversation.:Laptop:
 
 
 ## 🚀 About Me
 
 
-- 🔭 I’m currently working on 
+- 🔭 I'm passionate about building tools that help people improve their daily lives.
 
-- 🌱 I’m currently learning 
+- 🌱 I’m always learning new ways to write cleaner, more efficient, and modern code.
 
-- 👯 I’m looking to collaborate on 
+- 👯 I'm open to collaborating on pen-source Android projects with a focus on great user experience. 
 
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with getting constructive feedback and different perspectives on my code. 
 
-- 💬 Ask me about 
+- 💬 Ask me about Kotlin, Android Development, and UI/UX design principles.
 
-- 📫 How to reach me: 
-
-- ⚡ Fun fact: 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/anmol-koundal)
 
 
 ## 🛠️ Technologies & Tools
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)
 
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -55,17 +62,17 @@ Welcome to my GitHub profile! I'm a passionate  with a love for . Here, you'll f
 Here are some of my favorite projects:
 
 
-- [Project 1](https://github.com/yourusername/project1) - A brief description of what this project does.
+- [Alzheimer Detection using Machine Learining](https://github.com/avnk-342/alzheimer_detection_ML) - This is a web application that provides users a quick and easy way to detect Alzheimer's disease by uploading an MRI scan of the brain. It is designed to be used as a tool for early diagnosis or by professionals to help fast-track the process and accurately assess the extent of the disease.
 
-- [Project 2](https://github.com/yourusername/project2) - A brief description of what this project does.
+- [Football Match Analyser](https://github.com/avnk-342/football_match_analyzer) - This is a computer vision project that analyzes football match video clips using a YOLO model. It can accurately identify the ball, teams, players, and referee to provide valuable game information, such as a team's total ball control and a player's speed.
 
-- [Project 3](https://github.com/yourusername/project3) - A brief description of what this project does.
+- [Expense Tracker Android App](https://github.com/avnk-342/expenseTracker) - This is a fully functional Expense Tracker Android application developed with Kotlin and Jetpack Compose. It allows users to add, view, and manage their daily expenses securely using efficient local data storage, without the need for external servers.
 
 
 ## 📫 Connect with Me
 
 
-- [LinkedIn](www.linkedin.com/in/anmol-koundal)
+- [LinkedIn](https://www.linkedin.com/in/anmol-koundal)
 
 - [Personal Website](https://portfolio-c18g.vercel.app/)
 
