@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Anmol Koundal!
 
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=avnk-342) ![GitHub Followers](https://img.shields.io/github/followers/avnk-342?style=social)
+<!-- ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=avnk-342) ![GitHub Followers](https://img.shields.io/github/followers/avnk-342?style=social) -->
 
 
 I tell computers what to do, and sometimes they even listen. This is where I document my side of the conversation.:Laptop:
@@ -49,14 +49,14 @@ I tell computers what to do, and sometimes they even listen. This is where I doc
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
 ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=avnk-342&show_icons=true&theme=transparent)
 
 ## Most Used Languages
 [![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avnk-342&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-
+-->
 
 
 ## 🌟 Featured Projects
